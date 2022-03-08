@@ -67,7 +67,7 @@ For more information about SKlearn, click [here](https://scikit-learn.org/stable
 
 The following graph shows the 3 month cumulative returns for the actual returns and the predicted returns. This graph shows that the predicted strategy returns performed just slightly better than the actual returns.
 
-![Initial SVM returns_3_Month](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_strategy_retur%20ns.png)
+![Initial SVM returns_3_Month](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_strategy_returns_3_month.png)
 
 
 The following graph shows the 2 month cumulative returns for the actual returns and the predicted returns. This graph shows that the predicted strategy returns performed just slightly better than the actual returns.
