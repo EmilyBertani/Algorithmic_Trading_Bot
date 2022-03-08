@@ -99,6 +99,13 @@ This is the graph of the original training data with a 4 month short SMA and a 1
 
 As you can see from these graphs, it appears that using a short window of 7 days and a long window of 150 days predicts slightly better with less volatility than the original 4 day short window and 100 day long window. This will be the strategy that I recommend.
 
+
+The final graph below shows the cumulative returns with a 3 month training period, 4 day short window and 100 day long window SMAs using a Linear Regression Model.
+
+![LRM_Returns](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/LRM_Model_Returns.png)
+
+We can see from this graphic that the returns are a little more volatile and end up lower than the actual returns. Therefore my recommendation is to use the SVM strategy as it had the best predicted returns with the least amount of volatility.
+
 ---
 
 
