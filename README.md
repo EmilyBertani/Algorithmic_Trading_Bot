@@ -6,7 +6,7 @@
 
 ## What this program does
 
-In this program we have created the ability to
+In this program we will use machine learning models to test different trading strategies and compare these strategies by reviewing graphical and numeric data, including accuracy and precision.
 
 ---
 
@@ -62,12 +62,17 @@ For more information about SKlearn, click [here](https://scikit-learn.org/stable
 ---
 
 
-## Usage
+## Conclusions
 
 
-The following images can be seen when viewing this project:
+The following graph shows the 3 month cumulative returns for the actual returns and the predicted returns. This graph shows that the predicted strategy returns performed just slightly better than the actual returns.
 
-![Bar Graph of Housing Unit Prices per Year in San Francisco](https://github.com/EmilyBertani/Challenge_6/blob/main/Bar_graph.png)
+![Initial SVM returns_3_Month](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_strategy_retur%20ns.png)
+
+
+
+
+![Initial SVM returns](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_strategy_retur%20ns.png)
 
 
 
