@@ -83,10 +83,14 @@ The following graph shows the cumulative returns with a 6 month training window.
 Based in these three graphs alone, it appears that the 3 month window strategy has the least amount of volatility.
 
 
+The following graph shows a 3 month training period from above with the short SMA set to 7 days and the long SMA set to 200 days.
 
-![SVM_Returns_6_Month](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_6_month_returns.png)
+![SVM_Returns_SMA 7_200](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/7_200_SMA_windows.png)
 
-![SVM_Returns_6_Month](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_6_month_returns.png)
+
+The following graph shows a 3 month training period from above with the short SMA set to 7 days and the long SMA set to 150 days.
+
+![SVM_Returns_SMA_7_150](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/7_150_SMA_windows.png)
 
 ---
 
