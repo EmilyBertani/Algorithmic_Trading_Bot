@@ -97,7 +97,7 @@ This is the graph of the original training data with a 4 month short SMA and a 1
 
 ![SVM_Returns_Original_SMA_4_100](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/Original_SMA_4_100.png)
 
-As you can see from these graphs, 
+As you can see from these graphs, it appears that using a short window of 7 days and a long window of 150 days predicts slightly better with less volatility than the original 4 day short window and 100 day long window. This will be the strategy that I recommend.
 
 ---
 
