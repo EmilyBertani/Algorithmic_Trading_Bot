@@ -92,6 +92,13 @@ The following graph shows a 3 month training period from above with the short SM
 
 ![SVM_Returns_SMA_7_150](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/7_150_SMA_windows.png)
 
+
+This is the graph of the original training data with a 4 month short SMA and a 100 day long SMA
+
+![SVM_Returns_Original_SMA_4_100](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/Original_SMA_4_100.png)
+
+As you can see from these graphs, 
+
 ---
 
 
