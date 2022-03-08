@@ -65,19 +65,22 @@ For more information about SKlearn, click [here](https://scikit-learn.org/stable
 ## Conclusions
 
 
-The following graph shows the 3 month cumulative returns for the actual returns and the predicted returns. This graph shows that the predicted strategy returns performed just slightly better than the actual returns.
+The following graph shows the 3 month cumulative returns for the actual and predicted returns. This graph shows that the predicted strategy returns performed just slightly better than the actual returns.
 
 ![Initial SVM returns_3_Month](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_strategy_returns_3_month.png)
 
 
-The following graph shows the 2 month cumulative returns for the actual returns and the predicted returns. This graph shows that the predicted strategy returns performed just slightly better than the actual returns.
+The following graph shows the 2 month cumulative returns comparison. This graph shows that the predicted strategy returns did not perform much differently than the 2 month window.
 
 ![SVM_Returns_2_Month](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_2_month_returns.png)
 
 
-The following graph shows the 6 month cumulative returns for the actual returns and the predicted returns. This graph shows that the predicted strategy returns performed just slightly better than the actual returns.
+The following graph shows the 6 month cumulative returns comparison. This graph shows that the predictions matched with the actual returns for longer than the 2 and 3 month windows, but then predicted lower for a period before having higher predictions towards the end of the data. 
 
 ![SVM_Returns_6_Month](https://github.com/EmilyBertani/Challenge_14/blob/main/Challenge_14_Starter_Code/SVM_6_month_returns.png)
+
+
+Based in these three graphs alone, it appears that the 3 month window strategy has the least amount of volatility.
 
 ---
 
