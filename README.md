@@ -62,7 +62,7 @@ For more information about SKlearn, click [here](https://scikit-learn.org/stable
 ---
 
 
-## Conclusions
+## Analysis
 
 
 The following graph shows the actual and predicted cumulative returns for a 3 month training period. This graph shows that the predicted strategy returns performed just slightly better than the actual returns.
